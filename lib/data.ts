@@ -4,7 +4,7 @@ export const projects = [
     title: "Website Organisasi Psikologi",
     description: "A modern and informative psychology organization website that presents organizational profiles, activities, articles, and membership information.",
     image: "/psikologi-web.jpg",
-    tech: ["React", "Next.js", "Tailwind CSS", "SQL" ],
+    tech: ["React", "Next.js", "Tailwind CSS", "PostgreSQL"],
     demoLink: "https://example.com",
     githubLink: "https://github.com",
   },
