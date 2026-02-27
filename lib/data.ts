@@ -28,11 +28,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Mobile Medicinal Plant Detection",
-    description: "A mobile-based system for real-time medicinal plant detection that utilizes image processing techniques to assist users in identifying medicinal plants accurately.",
-    image: "medhical.jpg",
-    tech: ["Flutter", "Dart", "Flutter Widgets", "TensorFlow Lite", "SQLite", "Android", "JSON"],
-    demoLink: "https://example.com",
+    title: "website e-commerce",
+    description: "A web-based e-commerce platform for selling products online.",
+    image: "erzengel.jpeg",
+    tech: ["React", "Next.js", "Tailwind CSS", "PostgreSQL"],
+    demoLink: "https://erzengel.id",
     githubLink: "https://github.com",
   },
 ]

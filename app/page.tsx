@@ -44,7 +44,7 @@ export default function Home() {
                 Get In Touch <ArrowRight size={18} />
               </a>
               <a
-                href="https://drive.google.com/file/d/1Pl3ODwpQ0G6tzHRHe6ePaI2q4mUHPg0N/view?usp=sharing"
+                href="https://drive.google.com/file/d/1VdZCBofOpvjc0eOYX4wIEW95oZtLcXk3/view?usp=sharing"
                 download
                 className="px-8 py-3 border border-primary text-primary hover:bg-primary/5 rounded-lg font-medium transition-colors flex items-center gap-2"
               >

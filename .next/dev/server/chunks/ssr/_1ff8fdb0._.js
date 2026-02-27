@@ -698,19 +698,16 @@ const projects = [
     },
     {
         id: 4,
-        title: "Mobile Medicinal Plant Detection",
-        description: "A mobile-based system for real-time medicinal plant detection that utilizes image processing techniques to assist users in identifying medicinal plants accurately.",
-        image: "medhical.jpg",
+        title: "website e-commerce",
+        description: "A web-based e-commerce platform for selling products online.",
+        image: "erzengel.jpeg",
         tech: [
-            "Flutter",
-            "Dart",
-            "Flutter Widgets",
-            "TensorFlow Lite",
-            "SQLite",
-            "Android",
-            "JSON"
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "PostgreSQL"
         ],
-        demoLink: "https://example.com",
+        demoLink: "https://erzengel.id",
         githubLink: "https://github.com"
     }
 ];
@@ -888,7 +885,7 @@ function Home() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                            href: "https://drive.google.com/file/d/1Pl3ODwpQ0G6tzHRHe6ePaI2q4mUHPg0N/view?usp=sharing",
+                                            href: "https://drive.google.com/file/d/1VdZCBofOpvjc0eOYX4wIEW95oZtLcXk3/view?usp=sharing",
                                             download: true,
                                             className: "px-8 py-3 border border-primary text-primary hover:bg-primary/5 rounded-lg font-medium transition-colors flex items-center gap-2",
                                             children: [
